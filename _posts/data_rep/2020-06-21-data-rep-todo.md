@@ -1,15 +1,14 @@
 ---
-title: "Data Representation - TODO"
-subtitle: "「数据表示」待写"
+title: "东北大学金属高温氧化视频"
+subtitle: "2020-09-25"
 layout: post
-author: "Hux"
+author: "Ning"
 header-style: text
 hidden: true
 tags:
-  - 笔记
+  - 高温氧化
   - 基础
-  - C
-  - C++
+  - 视频
 ---
 
 - Endianness
