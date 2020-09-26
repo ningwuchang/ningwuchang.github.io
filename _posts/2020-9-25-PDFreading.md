@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Peer Review and Manuscript Management in Scientific Journals Guidelines for Good Practice"
+subtitle: 'written by Irene Hames'
+author: "Ning"
+header-style: text
+tags:
+  - 指南
+  - 科研
+---
+

@@ -1,4 +1,5 @@
 # Hux blog 模板
+# 本网站基于此模版开发
 
 ### [我的博客在这里 &rarr;](http://huxpro.github.io)
 
