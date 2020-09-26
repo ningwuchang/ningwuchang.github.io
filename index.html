@@ -3,7 +3,8 @@ layout: page
 description: "fu底抽薪 文件分享"
 ---
 
-{% for post in paginator.posts %}
+<!-- 博文简要浏览 -->
+{% for post in paginator.posts %} 
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
