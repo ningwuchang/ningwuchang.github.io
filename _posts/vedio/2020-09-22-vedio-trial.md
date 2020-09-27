@@ -1,0 +1,27 @@
+---
+title: "金属高温氧化09-22"
+subtitle: "东北大学--金属高温氧化无界课堂"
+layout: post
+author: "Ning"
+header-style: text
+tags:
+  - 高温氧化
+  - 基础
+  - 视频
+---
+
+
+<div class="aspect-ratio">
+	<iframe src="//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen" width="100%" height="500" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">> </iframe>
+</div>
+<video width="320" height="240" controls>
+  <source src="//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30" type="video/mp4">
+      <embed src="movie.swf" width="320" height="240">
+  </object> 
+</video>
+
+
+
+如视频无法播放，请通过<a href="https://www.bilibili.com/video/BV1nz4y1Z7tf">这里</a>前往观看
+
+如需要下载视频，请点击<a href="nanotopgroup.club/afhafdk">这里</a>   前往下载
