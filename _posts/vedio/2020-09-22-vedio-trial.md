@@ -16,9 +16,10 @@ tags:
 </div>
 <video width="320" height="240" controls>
   <source src="//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30" type="video/mp4">
-      <embed src="movie.swf" width="320" height="240">
+      <embed src='https://player.youku.com/player.php/sid/XMTQ3MjM5Mjc0MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
   </object> 
 </video>
+<embed src='//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 
 
