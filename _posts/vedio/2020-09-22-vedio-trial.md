@@ -2,7 +2,6 @@
 title: "视频播放试验页"
 subtitle: "东北大学--金属高温氧化无界课堂"
 layout: post
-author: "Ning"
 header-style: text
 tags:
   - 高温氧化
