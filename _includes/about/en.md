@@ -2,7 +2,7 @@
 
 
 
-I'd like to pay tribute to Mr.Yong for the work of vedio recording, naming and sorting.
+I'd like to pay tribute to Mr.Yong for the work of vedio recording, naming and sorting, which helps the module of lectures sharing a lot.	
 
 
 
