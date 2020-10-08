@@ -20,8 +20,10 @@ tags:
 </video>
 <embed src='//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
-testtag=4
-<a href="L1C1.pdf" download="newfilename">Download the pdf</a>
+testtag=5
+
+<a href="http://ningwuchang.github.io/_post/pdf_file/lessons/L1C2.pdf" download="newfilename">Download the pdf</a>
+<a href="L1C2.pdf" download="newfilename">Download the pdf</a>
 
 
 
