@@ -22,8 +22,8 @@ tags:
 
 testtag=5
 
-<a href="http://ningwuchang.github.io/_post/pdf_file/lessons/L1C2.pdf" download="newfilename">Download the pdf</a>
-<a href="L1C2.pdf" download="newfilename">Download the pdf</a>
+<h5><a href="http://ningwuchang.github.io/_post/pdf_file/lessons/L1C2.pdf" download="newfilename">Download the pdf</a></h5>
+<h5><a href="L1C2.pdf" download="newfilename">Download the pdf</a></h5>
 
 
 
