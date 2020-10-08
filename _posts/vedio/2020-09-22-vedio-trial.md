@@ -20,7 +20,8 @@ tags:
 </video>
 <embed src='//player.bilibili.com/player.html?aid=927183411&cid=82396732&page=1&high_quality=1&danmaku=0&t=30' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
-<a href="../pdf_file/lessons/lesson%201%20class%201.pdf" download="newfilename">Download the pdf
+testtag=3
+<a href="../pdf_file/lessons/lesson%201%20class%201.pdf" download="newfilename">Download the pdf</a>
 
 
 
